@@ -109,7 +109,7 @@ ____
 ---
 
 class: impact
-# Comment s'assurer de la qualité de ces API ?
+# Comment s'assurer de la qualité de ses API ?
 ---
 
 class: impact, full, middle, center
