@@ -71,7 +71,7 @@ ____
 
 ---
 
-# OpenAPI - Specification
+# OpenAPI - Spécification
 .condensed-code[
 ```yaml
 /pet:
@@ -103,8 +103,8 @@ ____
 # OpenAPI - Outils
 
    - Générateurs de code
-   - Documentation intéractive
-   - Ecosystème de composant (Validation, aide a la redaction, etc...) 
+   - Documentation interactive
+   - Ecosystème de composants (validation, aide à la rédaction, etc...) 
 
 ---
 
@@ -160,6 +160,11 @@ Photo by bonneval sebastien on Unsplash
 ![](./images/lost.gif)
 ]
 ]
+.right[
+.x-small[
+Photo by Lidl Voyages on Giphy
+]
+]
 ---
 class: impact, full, middle, center
 background-image: url(./images/user.png)
@@ -188,10 +193,15 @@ Photo by Campaign Creators on Unsplash
 ![](./images/lost.gif)
 ]
 ]
+.right[
+.x-small[
+Photo by Lidl Voyages on Giphy
+]
+]
 ---
 class: impact, full, middle, center
 background-image: url(./images/idea.png)
-# Swagger Driven testing 
+# Swagger Driven Testing 
 
 --
 
