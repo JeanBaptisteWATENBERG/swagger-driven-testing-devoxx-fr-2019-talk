@@ -46,6 +46,11 @@ class: impact
 
 ---
 
+# SG MARKETS - PLATEFORME DE SERVICES B TO B 360°
+![](./images/SG_Market.jpg)
+
+---
+
 class: impact
 # + 3500 APIs
 ____
