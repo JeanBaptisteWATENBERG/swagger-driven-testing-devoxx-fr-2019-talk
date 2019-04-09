@@ -1,4 +1,4 @@
-title: Adoptez le "Swagger Driven Testing" pour tester vos API simplement
+title: Adoptez le "Swagger Driven Testing" pour tester vos APIs simplement
 class: animation-fade
 layout: true
 
@@ -109,7 +109,7 @@ ____
 ---
 
 class: impact
-# Comment s'assurer de la qualité de ses API ?
+# Comment s'assurer de la qualité de ses APIs ?
 ---
 
 class: impact, full, middle, center
