@@ -259,11 +259,20 @@ class: impact
 class: impact
 # Merci !!
 
+.col-4[
+.full[
+.float-right[
+![](./images/qr-code-slides.png)
+]
+]
+]
+.col-8[
 .alt[
 Questions ?
 ]
-
-[@JBWatenberg](https://twitter.com/JBWatenberg)
-.logo-small[
-    ![](./images/GitHub-Mark-32px.png) [JeanBaptisteWATENBERG](https://github.com/JeanBaptisteWATENBERG)
+[@JBWatenberg](https://twitter.com/JBWatenberg) <br/><br/>
+[https://bit.ly/2uVC3jr](https://bit.ly/2uVC3jr)<br/><br/>
+[https://github.com/JeanBaptisteWATENBERG/](https://github.com/JeanBaptisteWATENBERG/)
 ]
+
+

@@ -336,6 +336,11 @@ blockquote {
   background-color: $secondary;
 }
 
+
+.float-right {
+  float: right;
+}
+
 // Simple 12-columns grid system
 .row {
   width: 100%;
