@@ -58,6 +58,22 @@ ____
 
 ---
 
+# developer.sgmarkets.com
+
+.col-2[
+&nbsp;
+]
+.col-8[
+.full[
+![](./images/developer-portal.png)
+]
+]
+.col-2[
+&nbsp;
+]
+
+---
+
 class: impact
 # Documentation
 ____
