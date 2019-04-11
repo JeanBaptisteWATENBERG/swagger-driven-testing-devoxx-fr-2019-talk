@@ -46,7 +46,12 @@ class: impact
 
 ---
 
-# SG MARKETS - PLATEFORME DE SERVICES B TO B 360°
+# SG MARKETS
+
+.alt[
+PLATEFORME DE SERVICES B TO B 360°
+]
+
 ![](./images/SG_Market.jpg)
 
 ---
@@ -136,14 +141,6 @@ class: impact
 class: impact, full, middle, center
 background-image: url(./images/code.png)
 # Les développeurs, avec du code 
-<br/>
-<br/>
-<br/>
-.right[
-.x-small[
-Photo by Markus Spiske on Unsplash
-]
-]
 
 ---
 .col-6[
@@ -161,14 +158,6 @@ Photo by Markus Spiske on Unsplash
 class: impact, full, middle, center
 background-image: url(./images/qa.png)
 # Les QA/BA, avec Postman/ Insomnia/SOAP UI 
-<br/>
-<br/>
-<br/>
-.right[
-.x-small[
-Photo by bonneval sebastien on Unsplash
-]
-]
 ---
 .col-8[
 .full[
@@ -181,23 +170,10 @@ Photo by bonneval sebastien on Unsplash
 ![](./images/lost.gif)
 ]
 ]
-.right[
-.x-small[
-Photo by Lidl Voyages on Giphy
-]
-]
 ---
 class: impact, full, middle, center
 background-image: url(./images/user.png)
 # Les utilisateurs, avec Swagger UI 
-<br/>
-<br/>
-<br/>
-.right[
-.x-small[
-Photo by Campaign Creators on Unsplash
-]
-]
 ---
 .full[
 ![](./images/swagger-ui-1.png)
@@ -214,11 +190,6 @@ Photo by Campaign Creators on Unsplash
 ![](./images/lost.gif)
 ]
 ]
-.right[
-.x-small[
-Photo by Lidl Voyages on Giphy
-]
-]
 ---
 class: impact, full, middle, center
 background-image: url(./images/idea.png)
@@ -227,14 +198,6 @@ background-image: url(./images/idea.png)
 --
 
 ## Demo !
-<br/>
-<br/>
-<br/>
-.right[
-.x-small[
-Photo by Kristopher Roller on Unsplash
-]
-]
 ---
 
 class: impact
@@ -242,7 +205,7 @@ class: impact
 
 ---
 
-# CI/CD
+# Continuous Delivery
 
 ![](./images/ci.png)
 
@@ -276,3 +239,13 @@ Questions ?
 ]
 
 
+---
+
+# Credits
+
+Slide 11 : Photo par Markus Spiske sur Unsplash  
+Slide 13 : Photo par bonneval sebastien sur Unsplash  
+Slide 14 : Gif par Lidl Voyage sur Giphy  
+Slide 15 : Photo par Campaign Creators sur Unsplash  
+Slide 17 : Gif par Lidl Voyage sur Giphy  
+Slide 18 : Photo par Kristopher Roller sur Unsplash  
