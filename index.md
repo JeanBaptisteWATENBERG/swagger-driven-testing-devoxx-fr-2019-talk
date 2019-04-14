@@ -128,8 +128,8 @@ ____
 
 # OpenAPI - Outils
 
-   - Générateurs de code
-   - Documentation interactive
+   - Générateurs de code ([swagger-codegen](https://github.com/swagger-api/swagger-codegen))
+   - Documentation interactive ([swagger-ui](https://github.com/swagger-api/swagger-ui))
    - Ecosystème de composants (validation, aide à la rédaction, etc...) 
 
 ---
